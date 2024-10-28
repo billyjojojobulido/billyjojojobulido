@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baocheng (Billy)</h1>
 <h3 align="center">A wonderful human being (also a passionate Software Developer)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billyjojojobulido&theme=radical&row=1&column=6" alt="billyjojojobulido trophies"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billyjojojobulido&theme=radical" alt="billyjojojobulido trophies"/></a> </p>
 
 <p align="left"> <a href="https://twitter.com/baochengwang" target="blank"><img src="https://img.shields.io/twitter/follow/baochengwang?logo=twitter&style=for-the-badge" alt="baochengwang" /></a> </p>
 
