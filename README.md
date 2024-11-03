@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Baocheng (Billy)</h1>
-<h3 align="center">A wonderful human being (also a passionate Software Developer)</h3>
+<h3 align="left">Hi 👋</h3>
+<h4>I'm Baocheng Wang (you can call me Billy😄). Thanks for visiting my GitHub space!</h4>
+<p>🔭 I'm currently working on Software Development, and also researching on Generative AI & Smart Contract, exploring underlying technology.</p>
+<p>📫 Feel free to reach out for a chat if you come across something interesting:</p>
+<p align="left"><a href="www.linkedin.com/in/baocheng-wang-504b351a5" target="blank"><img src="https://img.shields.io/twitter/follow/baochengwang?logo=twitter&style=for-the-badge" alt="baochengwang" /></a> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billyjojojobulido&column=5" alt="billyjojojobulido trophies"/></a> </p>
-<p align="left"> <a href="https://twitter.com/baochengwang" target="blank"><img src="https://img.shields.io/twitter/follow/baochengwang?logo=twitter&style=for-the-badge" alt="baochengwang" /></a> </p>
 
 - 🔭 I’m currently working on [my job at Growild Technology Inc.](https://billyjojojobulido.github.io/) and [My Homepage](https://github.com/billyjojojobulido/billyjojojobulido.github.io)
 
