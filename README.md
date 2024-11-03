@@ -1,15 +1,18 @@
 <h3 align="left">Hi 👋</h3>
 <h4>I'm Baocheng Wang (you can call me Billy😄). Thanks for visiting my GitHub space!</h4>
-<p>🔭 I'm currently working on Software Development, and also researching on Generative AI & Smart Contract, exploring underlying technology.</p>
+<p>🔭 I'm a Software Developer, and I am currently exploring on Generative AI & Smart Contract.</p>
 <p>📫 Feel free to reach out for a chat if you come across something interesting:</p>
 <p align="left"><a href="www.linkedin.com/in/baocheng-wang-504b351a5" target="blank"><img src="https://img.shields.io/twitter/follow/baochengwang?logo=twitter&style=for-the-badge" alt="baochengwang" /></a> </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 My Github Trophies</h2></a>
 <p align="center">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=billyjojojobulido&column=10&theme=gruvbox&no-frame=true"/>
 </p>
 
 ---
+
+
+<a href="https://billyjojojobulido.github.io/"><h2>🔮 My Tech Stack</h2></a>
 
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -24,12 +27,11 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=billyjojojobulido&count_private=true&include_all_commits=true" />
 </div>
 
+---
 
-<h3 align="left">My Recent Progress:</h3>
+<h3 align="left">🎯 My Recent Progress:</h3>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=billyjojojobulido&" alt="billyjojojobulido" /></p>
-
-- 🔭 I’m currently working on [my job at Growild Technology Inc.](https://billyjojojobulido.github.io/) and [My Homepage](https://github.com/billyjojojobulido/billyjojojobulido.github.io)
+- 🔭 I’m currently working on [My Job](www.linkedin.com/in/baocheng-wang-504b351a5) and [My Homepage](https://github.com/billyjojojobulido/billyjojojobulido.github.io)
 
 - 🌱 I’m currently learning **React.js, LLM, Deep Learning**
 
@@ -37,3 +39,5 @@
 
 - 📝 I regularly write articles on [billyjojojobulido.github.io/](billyjojojobulido.github.io/)
 
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=billyjojojobulido&" alt="billyjojojobulido" /></p>
