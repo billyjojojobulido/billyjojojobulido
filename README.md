@@ -22,8 +22,8 @@
 
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billyjojojobulido&layout=compact" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=billyjojojobulido&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats-git-master-billyjojojobulidos-projects.vercel.app/api/top-langs/?username=billyjojojobulido&layout=compact" />
+  <img height="170" src="https:/github-readme-stats-git-master-billyjojojobulidos-projects.vercel.app/api?username=billyjojojobulido&count_private=true&include_all_commits=true" />
 </div>
 
 <a href="https://billyjojojobulido.github.io/"><h2>🎯 My Recent Progress</h2></a>
