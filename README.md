@@ -7,7 +7,7 @@
 <a href="https://github.com/ryo-ma/"><h2>🏆 My Github Trophies</h2></a>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=600 src="https://github-profile-trophy.vercel.app/?username=billyjojojobulido&column=5&theme=juicyfresh&no-frame=true"/>
+  <img width=600 src="https://github-profile-trophy-git-master-billyjojojobulidos-projects.vercel.app/?username=billyjojojobulido&column=5&theme=juicyfresh&no-frame=true"/>
   </a>
 </p>
 
