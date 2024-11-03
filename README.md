@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baocheng (Billy)</h1>
 <h3 align="center">A wonderful human being (also a passionate Software Developer)</h3>
 
-<div style="text-align: center;">
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billyjojojobulido&column=5" alt="billyjojojobulido trophies"/></a> </p>
-</div>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billyjojojobulido&column=5" alt="billyjojojobulido trophies"/></a> </p>
 <p align="left"> <a href="https://twitter.com/baochengwang" target="blank"><img src="https://img.shields.io/twitter/follow/baochengwang?logo=twitter&style=for-the-badge" alt="baochengwang" /></a> </p>
 
 - 🔭 I’m currently working on [my job at Growild Technology Inc.](https://billyjojojobulido.github.io/) and [My Homepage](https://github.com/billyjojojobulido/billyjojojobulido.github.io)
