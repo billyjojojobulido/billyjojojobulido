@@ -4,7 +4,12 @@
 <p>📫 Feel free to reach out for a chat if you come across something interesting:</p>
 <p align="left"><a href="www.linkedin.com/in/baocheng-wang-504b351a5" target="blank"><img src="https://img.shields.io/twitter/follow/baochengwang?logo=twitter&style=for-the-badge" alt="baochengwang" /></a> </p>
 
+<h3 align="left">GitHub Trophies:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billyjojojobulido&column=5" alt="billyjojojobulido trophies"/></a> </p>
+
+<h3 align="left">My Recent Progress:</h3>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=billyjojojobulido&" alt="billyjojojobulido" /></p>
 
 - 🔭 I’m currently working on [my job at Growild Technology Inc.](https://billyjojojobulido.github.io/) and [My Homepage](https://github.com/billyjojojobulido/billyjojojobulido.github.io)
 
@@ -24,6 +29,3 @@
   
   <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=billyjojojobulido&show_icons=true&locale=en" alt="billyjojojobulido" /></p>
 </div>
-
-<h3 align="left">Recent Activity:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=billyjojojobulido&" alt="billyjojojobulido" /></p>
