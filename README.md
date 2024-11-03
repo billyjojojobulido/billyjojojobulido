@@ -6,11 +6,8 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 My Github Trophies</h2></a>
 <p align="center">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=billyjojojobulido&column=10&theme=gruvbox&no-frame=true"/>
+  <img width=600 src="https://github-profile-trophy.vercel.app/?username=billyjojojobulido&column=5&theme=gruvbox&no-frame=true"/>
 </p>
-
----
-
 
 <a href="https://billyjojojobulido.github.io/"><h2>🔮 My Tech Stack</h2></a>
 
@@ -27,9 +24,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=billyjojojobulido&count_private=true&include_all_commits=true" />
 </div>
 
----
-
-<h3 align="left">🎯 My Recent Progress:</h3>
+<a href="https://billyjojojobulido.github.io/"><h2>🎯 My Recent Progress</h2></a>
 
 - 🔭 I’m currently working on [My Job](www.linkedin.com/in/baocheng-wang-504b351a5) and [My Homepage](https://github.com/billyjojojobulido/billyjojojobulido.github.io)
 
