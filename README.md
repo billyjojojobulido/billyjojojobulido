@@ -37,8 +37,3 @@
 
 - 📝 I regularly write articles on [billyjojojobulido.github.io/](billyjojojobulido.github.io/)
 
-<div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=billyjojojobulido&show_icons=true&locale=en&layout=compact" alt="billyjojojobulido" /></p>
-  
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=billyjojojobulido&show_icons=true&locale=en" alt="billyjojojobulido" /></p>
-</div>
