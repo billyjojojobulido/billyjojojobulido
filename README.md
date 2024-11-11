@@ -28,11 +28,11 @@
 
 <a href="https://billyjojojobulido.github.io/"><h2>🎯 My Recent Progress</h2></a>
 
-- 🔭 I’m currently working on [My Job](www.linkedin.com/in/baocheng-wang-504b351a5) and [My Homepage](https://github.com/billyjojojobulido/billyjojojobulido.github.io)
+- 🔭 I’m currently working on [My Homepage](https://github.com/billyjojojobulido/billyjojojobulido.github.io) , [Rebuilding Space War](https://github.com/billyjojojobulido/cocos-space-war) 
 
 - 🌱 I’m currently learning **React.js, LLM, Deep Learning**
 
-- 🎯 I’m planning to work on [Noise Detection based on Convolutional Nerual Network](https://github.com/billyjojojobulido/Angji-CNN-NoiseDetection)
+- 🎯 I’m planning to work on [React Component for math formula construction](https://github.com/billyjojojobulido/react-math-ui)
 
 - 📝 I regularly write articles on [billyjojojobulido.github.io/](billyjojojobulido.github.io/)
 
