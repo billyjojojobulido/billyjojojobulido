@@ -28,7 +28,7 @@
 
 <a href="https://billyjojojobulido.github.io/"><h2>🎯 My Recent Progress</h2></a>
 
-- 🔭 I’m currently working on [My Homepage](https://github.com/billyjojojobulido/billyjojojobulido.github.io) , [Rebuilding Space War](https://github.com/billyjojojobulido/cocos-space-war) 
+- 🔭 I’m currently working on [My Homepage](https://github.com/billyjojojobulido/billyjojojobulido.github.io) , [Rebuilding Space War](https://github.com/billyjojojobulido/cocos-space-war) , [Hotaru Auto Audio Player](https://github.com/billyjojojobulido/hotaru)
 
 - 🌱 I’m currently learning **React.js, LLM, Deep Learning**
 
