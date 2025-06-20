@@ -1,6 +1,6 @@
 <h3 align="left">Hi 👋</h3>
 <h4>I'm Baocheng Wang (you can call me Billy😄). Thanks for visiting my GitHub space!</h4>
-<p>🔭 I'm a Software Developer, and I am currently exploring on Generative AI & Smart Contract.</p>
+<p>🔭 I'm a Software Developer, and I am currently exploring on Mobile Development based on Expo.</p>
 <p>📫 Feel free to reach out for a chat if you come across something interesting</p>
 <p align="left"><a href="www.linkedin.com/in/baocheng-wang-504b351a5" target="blank"><img src="https://img.shields.io/twitter/follow/baochengwang?logo=twitter&style=for-the-badge" alt="baochengwang" /></a> </p>
 
@@ -28,9 +28,9 @@
 
 <a href="https://billyjojojobulido.github.io/"><h2>🎯 My Recent Progress</h2></a>
 
-- 🔭 I’m currently working on [My Homepage](https://github.com/billyjojojobulido/billyjojojobulido.github.io) , [Rebuilding Space War](https://github.com/billyjojojobulido/cocos-space-war) , [Hotaru Auto Audio Player](https://github.com/billyjojojobulido/hotaru)
+- 🔭 I’m currently working on [My Homepage](https://github.com/billyjojojobulido/billyjojojobulido.github.io) , [My First Open Source Mobile App](https://github.com/billyjojojobulido/keepr) , [My First Business App 🈲](https://github.com/billyjojojobulido/soba)
 
-- 🌱 I’m currently learning **React.js, LLM, Deep Learning**
+- 🌱 I’m currently learning **React.js, Expo, TypeScript**
 
 - 🎯 I’m planning to work on [React Component for math formula construction](https://github.com/billyjojojobulido/react-math-ui)
 
